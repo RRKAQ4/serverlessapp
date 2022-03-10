@@ -15,14 +15,14 @@
           <value>
             <DeploySamConfig>
               <option name="autoExecute" value="true" />
-              <option name="bucketName" value="lambdalocals3" />
+              <option name="bucketName" value="samapp1" />
               <option name="enabledCapabilities">
                 <list>
                   <option value="IAM" />
                   <option value="NAMED_IAM" />
                 </list>
               </option>
-              <option name="stackName" value="serverless-app" />
+              <option name="stackName" value="sam-app" />
             </DeploySamConfig>
           </value>
         </entry>
